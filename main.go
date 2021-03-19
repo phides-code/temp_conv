@@ -1,5 +1,5 @@
-// Package uniconv performs all kinds of conversions.
-package uniconv
+// Reads from the standard input and converts to C, F, and K temperature units 
+package main
 
 import (
     "fmt"
